@@ -1,4 +1,5 @@
 ---
+id: d5c9cb6a-6052-45d6-ad73-7efe45890d1a
 title: "Oppgaver og framdrift"
 linkTitle: "Oppgaver og framdrift"
 weight: 90
