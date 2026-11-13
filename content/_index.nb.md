@@ -6,7 +6,7 @@ linkTitle: "Juss"
 weight: 50
 aliases:
   - /prosjektleveranser/rammeverk/juss/
-lastmod: 2026-11-12T11:02:31+01:00
+lastmod: 2026-11-13T01:06:35+01:00
 last_editor: Erik Hagen
 
 ---
