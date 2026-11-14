@@ -2,8 +2,8 @@
 
 Innhold om juss som skal kunne brukes også etter SAMT-BU (Sammenhengende tjenester for barn og unge), i nye team og prosjekter.
 
-- **Sider:** [Prosjektleveranser → Rammeverk → Juss](https://docs.samt-bu.no/prosjektleveranser/rammeverk/juss/) på docs.samt-bu.no.
-  Repoet er en Hugo-modul, og `content/` monteres på `prosjektleveranser/rammeverk/juss`.
+- **Sider:** [Arkitektur → Juss](https://docs.samt-bu.no/arkitektur/juss/) på docs.samt-bu.no.
+  Repoet er en Hugo-modul, og `content/` monteres på `arkitektur/juss`.
 - **Oppgaver:** [samt-bu-legal](https://github.com/samt-x/samt-bu-legal/issues), med brettet «SAMT-BU Legal».
 - **Team:** `samt-bu-legal`.
 
