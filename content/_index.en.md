@@ -5,7 +5,7 @@ title: "Legal"
 linkTitle: "Legal"
 weight: 50
 aliases:
-  - /en/prosjektleveranser/rammeverk/juss/
+  - /prosjektleveranser/rammeverk/juss/
 lastmod: 2026-11-13T01:06:35+01:00
 last_editor: Erik Hagen
 
